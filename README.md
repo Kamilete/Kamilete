@@ -1,5 +1,20 @@
-# About me
+# Data Scientist
 
+#### Technical Skills: Python, R, SQL
 
-I am a data science professional with a strong foundation in machine learning, statistical analysis, and natural language processing (NLP). With an MSc in Data Science from University College London and a BA in Economics, I have gained hands-on experience in data collection, analysis, and predictive modeling through diverse academic and personal projects.
+## Education
+- M.S., Data Science	| University College London (_July 2024_)	 			        		
+- B.A., Economics | Pontifical Javeriana University (_June 2013_)
 
+## Projects
+### MSc Data Science Research Project
+
+Employed a Geographically Weighted Regression model to identify spatial non-stationarity in Colombia's femicide data.
+
+### MSc Group Project in Natural Language Processing (NLP)
+
+Compared the performance of pre-trained transformer models for depression symptom detection on the social media platform Discord.
+
+### Personal project
+
+Worked on developing an investment model based on machine learning models and behavioral finance papers to identify price patterns in the US stock market.
