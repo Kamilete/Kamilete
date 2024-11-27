@@ -7,7 +7,7 @@
 - B.A., Economics | Pontifical Javeriana University (_June 2013_)
 
 ## Projects
-### MSc Data Science Research Project
+### [MSc Data Science Research Project] (https://github.com/Kamilete/MSc-DS-Project)
 
 Employed a Geographically Weighted Regression model to identify spatial non-stationarity in Colombia's femicide data.
 
