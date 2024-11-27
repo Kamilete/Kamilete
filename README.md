@@ -9,12 +9,16 @@
 ## Projects
 ### [MSc Data Science Research Project](https://github.com/Kamilete/MSc-DS-Project)
 
-Employed a Geographically Weighted Regression model to identify spatial non-stationarity in Colombia's femicide data.
+**Description:** Employed a Geographically Weighted Regression model to identify spatial non-stationarity in Colombia's femicide data.
+
+---
 
 ### MSc Group Project in Natural Language Processing (NLP)
 
-Compared the performance of pre-trained transformer models for depression symptom detection on the social media platform Discord.
+**Description:** Compared the performance of pre-trained transformer models for depression symptom detection on the social media platform Discord.
+
+---
 
 ### Personal project
 
-Worked on developing an investment model based on machine learning models and behavioral finance papers to identify price patterns in the US stock market.
+**Description:** Worked on developing an investment model based on machine learning models and behavioral finance papers to identify price patterns in the US stock market.
