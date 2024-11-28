@@ -17,6 +17,8 @@
 
 **Description:** Compared the performance of pre-trained transformer models for depression symptom detection on the social media platform Discord.
 
+[Project Report](https://github.com/Kamilete/MSc-NLP-Project/blob/main/Project%20Report.pdf)
+
 ---
 
 ### Personal project
