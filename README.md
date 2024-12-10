@@ -21,6 +21,6 @@
 
 ---
 
-### Personal project
+### [Personal project](https://github.com/Kamilete/Invest-Model-Project)
 
 **Description:** Worked on developing an investment model based on machine learning models and behavioral finance papers to identify price patterns in the US stock market.
